@@ -1,3 +1,4 @@
 # student-demo
-This is my first Git Repository
-Author - Bharat Lohar
+This is my first Git Repository.
+<br>
+Author-Bharat Lohar
